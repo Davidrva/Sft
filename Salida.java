@@ -15,6 +15,7 @@ public class Salida
         for (int i = 5; i >= 1;  i--)
         {
             System.out.print(i);//Se muestra cada valor de i (de 1 a 10)
+            System.out.print("hola broster :v");
         }
     }
 }
